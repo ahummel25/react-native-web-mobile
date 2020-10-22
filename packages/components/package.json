@@ -1,0 +1,13 @@
+{
+  "name": "components",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-native": "^0.63.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.53",
+    "@types/react-native": "^0.63.27"
+  }
+}
